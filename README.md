@@ -62,6 +62,7 @@ worked before every new campaign begins.
 ## Model Results
 
 | Model | Accuracy | Recall | Notes |
+
 | Gaussian Naive Bayes | 86.4% | 40.3% | Below baseline accuracy |
 | Decision Tree | 82.5% | 31.7% | Tends to overfit |
 | Logistic Regression | 89.4% | 18.1% | Best overall |
