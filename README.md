@@ -115,6 +115,7 @@ How to Run
 ## Author
 
 **Nancy Nomathemba Shumba**  
+Suffolk University- Sawyer Business School
 Predictive Analytics and Machine Learning 
 03/14/2026
 
